@@ -1,0 +1,1 @@
+Practical Oriented Design In Ruby - Sandi Metz
